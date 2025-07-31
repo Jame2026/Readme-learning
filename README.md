@@ -28,3 +28,18 @@ Unorder list
 order list
 1. one 
 2. two
+
+### Style text
+**Bold text**
+ 
+*Hello*
+
+~~Hello world~~
+
+### Block quote
+> Hello
+
+### Table
+|ID | name | Age |
+|----|-----|----|
+|01 | Jame |19|
