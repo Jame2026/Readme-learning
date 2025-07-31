@@ -43,3 +43,12 @@ order list
 |ID | name | Age |
 |----|-----|----|
 |01 | Jame |19|
+
+### Code
+```python
+for i in range(i):
+    print(i)
+```
+```html
+<h1> heading </h1>
+```
