@@ -6,3 +6,9 @@ My Project focus on
 `pip install`
 
 `composoer install`
+
+### Todo list
+
+- [ ] Home page
+- [ ] About page
+- [X] service page
